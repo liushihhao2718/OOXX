@@ -1,5 +1,5 @@
 # OOXX
-https://liushihao2718.github.io/OOXX/
+https://liushihhao2718.github.io/OOXX/
 
 一個很單純的React練習
 
